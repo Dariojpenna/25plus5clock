@@ -2,7 +2,7 @@
   "name": "25plus5clock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://josephtorres.github.io/25plus5clock/",
+  "homepage": "https://dariojpenna.github.io/25plus5clock/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
